@@ -1,0 +1,15 @@
+{
+	"defaultSeverity": "error",
+	"extends": [
+		"tslint:recommended",
+		"tslint-no-unused-expression-chai"
+	],
+	"jsRules": {},
+	"rules": {
+		"arrow-parens": [true, "ban-single-arg-parens"],
+		"indent": [true, "tabs"],
+		"interface-name": [true, "never-prefix"],
+		"quotemark": [true, "single"]
+	},
+	"rulesDirectory": []
+}

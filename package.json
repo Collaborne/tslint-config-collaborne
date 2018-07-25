@@ -1,0 +1,12 @@
+{
+  "name": "tslint-config-collaborne",
+  "version": "0.0.1",
+  "description": "TS lint configuration for Collaborne projects",
+  "main": "tslint-config.json",
+  "repository": "https://github.com/Collaborne/tslint-config-collaborne.git",
+  "author": "Collaborne",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "tslint-no-unused-expression-chai": "^0.1.3"
+  }
+}
