@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-collaborne",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TS lint configuration for Collaborne projects",
   "main": "tslint-config.json",
   "repository": "https://github.com/Collaborne/tslint-config-collaborne.git",
