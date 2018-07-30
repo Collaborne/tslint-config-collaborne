@@ -8,6 +8,10 @@
 		"arrow-parens": [true, "ban-single-arg-parens"],
 		"indent": [true, "tabs"],
 		"interface-name": [true, "never-prefix"],
+		"max-line-length": {
+			"severity": "warn",
+			"options": 120
+		},
 		"quotemark": [true, "single"]
 	}
 }
