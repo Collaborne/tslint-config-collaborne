@@ -12,6 +12,9 @@
 			"severity": "warn",
 			"options": 120
 		},
+		"object-literal-shorthand": {
+			"severity": "warn"
+		},
 		"quotemark": [true, "single"]
 	}
 }

@@ -4,5 +4,5 @@ interface MyInterface {
 
 const foo = 'foo';
 const object: MyInterface = {
-	foo,
+	foo: foo,
 };
