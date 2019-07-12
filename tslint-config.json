@@ -15,6 +15,13 @@
 		"object-literal-shorthand": {
 			"severity": "warn"
 		},
-		"quotemark": [true, "single"]
+		"quotemark": [true, "single"],
+		"variable-name": {
+			"options": [
+				"ban-keywords",
+				"check-format",
+				"allow-leading-underscore"
+			]
+		}
 	}
 }
